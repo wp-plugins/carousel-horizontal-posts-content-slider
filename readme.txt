@@ -1,5 +1,6 @@
 ===Carousel Horizontal Posts Content Slider ===
-Contributors: Subhan Sanjaya
+Contributors: subhansanjaya
+Author: subhansanjaya
 Author URI: http://www.backraw.com
 Plugin URI: http://www.backraw.com/plugins/carousel-horizontal-posts-content-slider.zip
 Tags: wordpress, plugin, tiny carousel,posts slider, slider, content slider, horizontal
