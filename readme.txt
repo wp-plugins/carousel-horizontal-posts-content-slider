@@ -33,15 +33,18 @@ Carousel horizontal posts content slider displays your blog's recent posts eithe
 
 1.You can use the built-in installer. OR
 Download the zip file and extract the contents. Upload the 'Carousel hosrizontal posts content slider' folder to your plugins directory (wp-content/plugins/).
+
 2.Activate the plugin through the 'Plugins' menu in WordPress. 	
 
 **Configuration**
 
 In order to display, you have three options
 
-Simply place <?php if (function_exists('TCHPCSCarousel')) echo TCHPCSCarousel(); ?> in your theme.
-Add the shortcode '[carousel-horizontal-posts-content-slider]'.
-Using widget.
+1. Simply place <?php if (function_exists('TCHPCSCarousel')) echo TCHPCSCarousel(); ?> in your theme.
+
+2.Add the shortcode '[carousel-horizontal-posts-content-slider]'.
+
+3.Using widget.
 
 
 == Screenshots ==
