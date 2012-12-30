@@ -3,7 +3,7 @@ Plugin Name: Carousel Horizontal Posts Content Slider
 Plugin URI: http://www.backraw.com/plugins/carousel-horizontal-posts-content-slider.zip
 Description: This is  horizontal posts content slider designed using carousel jquery library.
 Version: 1.0
-Author: Subhan Sanjaya
+Author: subhansanjaya
 Author URI: http://www.backraw.com
 License:  GPL2*/
 global $wpdb, $wp_version;
