@@ -10,11 +10,12 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
-This plugin create a post slider on the wordpress website. We have option to customize the slider contents.
+This is JQuery Carousel library based wordpress horizontal posts content slider.
 
 == Description ==
 
-This is JQuery Carousel library based wordpress horizontal posts content slider.
+Carousel horizontal posts content slider displays your blog's recent posts either with excerpt or thumbnail image of first image of the post using slider. You can customize the slider in many ways category, posts order, Display content length, no of posts to display & more).
+
 = Features of this plugin =
 
 *   Easy to customize.
