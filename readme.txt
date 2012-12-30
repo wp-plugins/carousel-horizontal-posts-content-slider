@@ -40,7 +40,7 @@ Download the zip file and extract the contents. Upload the 'Carousel hosrizontal
 
 In order to display, you have three options
 
-1. Simply place <?php if (function_exists('TCHPCSCarousel')) echo TCHPCSCarousel(); ?> in your theme.
+1. Simply place < ? p h p if(function_exists('TCHPCSCarousel')){ echo TCHPCSCarousel(); } ? > in your theme.
 
 2.Add the shortcode '[carousel-horizontal-posts-content-slider]'.
 
