@@ -42,9 +42,31 @@ function Carousel_shortcode()
 		$slider_gallery.= '<div id="foo_content">';
 
 		if($displayimage=="YES"){
-			$slider_gallery.= attachment_image_filter($post->ID, 'thumbnail', 'alt="' . $post->post_title . '"');
+		
+		
+			 if (has_post_thumbnail( $post->ID ) ): 
+			$image = wp_get_attachment_image_src( get_post_thumbnail_id( $post->ID ), 'single-post-thumbnail' ); 
+			endif; 
+			
+			
+			if($image){
+			
+			$featured_img = "<img width='115' height='115' src='". $image[0] . "' " . $attributes . " />";
+			
+			}else{
+			
+			
+			
+			$defaultImage = "images/default-image.jpg"; //default image URL
+			$featured_img = "<img width='115' height='115' src='". $defaultImage . "' " . $attributes . " />";
+
+			}
+			
+			$slider_gallery.= '<a href="'.$post_link.'">'.$featured_img.'</a>';
 		}
-		$slider_gallery.= '<br/><h2>'.$post_title.'</h2><br/>';
+		
+		
+		$slider_gallery.= '<br/><h2><a href="'.$post_link.'">'.$post_title.'</a></h2><br/>';
 		$slider_gallery.= '<p><span class="foo_con">'.tchpcs_clean($post_content, $displaydesc).'</span></p>...';
 
 		$slider_gallery.= '<br/><span class="more"><a href="'.$post_link.'">read more</a></span>';
@@ -101,7 +123,7 @@ function attachment_image_filter($postid=0, $size='thumbnail', $attributes='') {
 
 			//custermize css, foo_content size accordint to your image with and height, ex img width= 140 height=140, css file- foo_content{ width 160px }
 				
-			return "<img width='130' height='130' src='". $attachment[0] . "' " . $attributes . " />";
+			return "<img width='115' height='115' src='". $attachment[0] . "' " . $attributes . " />";
 		}
 }
 
