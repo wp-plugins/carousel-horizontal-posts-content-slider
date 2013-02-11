@@ -66,7 +66,7 @@ function Carousel_shortcode()
 		}
 		
 		
-		$slider_gallery.= '<br/><h2><a href="'.$post_link.'">'.$post_title.'</a></h2><br/>';
+		$slider_gallery.= '<br/><h2>'.$post_title.'</h2><br/>';
 		$slider_gallery.= '<p><span class="foo_con">'.tchpcs_clean($post_content, $displaydesc).'</span></p>...';
 
 		$slider_gallery.= '<br/><span class="more"><a href="'.$post_link.'">read more</a></span>';
