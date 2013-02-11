@@ -48,19 +48,10 @@ function Carousel_shortcode()
 			$image = wp_get_attachment_image_src( get_post_thumbnail_id( $post->ID ), 'single-post-thumbnail' ); 
 			endif; 
 			
-			
-			if($image){
-			
+
 			$featured_img = "<img width='115' height='115' src='". $image[0] . "' " . $attributes . " />";
 			
-			}else{
-			
-			
-			
-			$defaultImage = "images/default-image.jpg"; //default image URL
-			$featured_img = "<img width='115' height='115' src='". $defaultImage . "' " . $attributes . " />";
 
-			}
 			
 			$slider_gallery.= '<a href="'.$post_link.'">'.$featured_img.'</a>';
 		}
