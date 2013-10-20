@@ -3,6 +3,7 @@ Contributors: subhansanjaya
 Author: subhansanjaya
 Author URI: http://www.backraw.com
 Plugin URI: http://www.backraw.com/plugins/carousel-horizontal-posts-content-slider.zip
+Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BXBCGCKDD74UE
 Tags: Horizontal Wordpress Slider, Carousel Slider, Image Horizontal Slider, Wordpress Horizontal Posts slider, Horizontal content slider, Wordpress slider, Horizontal posts content slider, horizontal
 Requires at least: 3.0
 Tested up to: 3.6

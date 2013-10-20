@@ -1,11 +1,16 @@
-<?php /*
+<?php
+
+/*
 Plugin Name: Carousel Horizontal Posts Content Slider
+Description: This is Jquery based image horizontal slider plugin, it is using tiny carousel light weight jquery script to the slideshow.
+Author: Gopi.R
+Version: 6.0
 Plugin URI: http://www.backraw.com/plugins/carousel-horizontal-posts-content-slider.zip
-Description: This is  horizontal posts content slider designed using carousel jquery library.
-Version: 2.0
-Author: subhansanjaya
 Author URI: http://www.backraw.com
-License:  GPL2*/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BXBCGCKDD74UE
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
 global $wpdb, $wp_version;
 //add shortcode
 add_shortcode( 'carousel-horizontal-posts-content-slider', 'Carousel_shortcode' );
