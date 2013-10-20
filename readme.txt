@@ -3,18 +3,18 @@ Contributors: subhansanjaya
 Author: subhansanjaya
 Author URI: http://www.backraw.com
 Plugin URI: http://www.backraw.com/plugins/carousel-horizontal-posts-content-slider.zip
-Tags: wordpress, plugin, tiny carousel,posts slider, slider, content slider, horizontal
+Tags: Horizontal Wordpress Slider, Carousel Slider, Image Horizontal Slider, Wordpress Horizontal Posts slider, Horizontal content slider, Wordpress slider, Horizontal posts content slider, horizontal
 Requires at least: 3.0
-Tested up to: 3.5
-Stable tag: 1.0
+Tested up to: 3.6
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
-This is JQuery Carousel library based wordpress horizontal posts content slider.
+This is JQuery CarouFredSel library based Wordpress horizontal posts content slider.
 
 == Description ==
 
-Carousel horizontal posts content slider displays your blog's recent posts either with excerpt or thumbnail image of first image of the post using slider. You can customize the slider in many ways category, posts order, Display content length, no of posts to display & more).
+Carousel horizontal posts content slider displays your blog's or web site's recent posts either with excerpt or thumbnail image of first image of the post using slider. You can customize the slider in many ways category, posts order, Display content length, no of posts to display & more).
 
 = Features of this plugin =
 
@@ -23,9 +23,9 @@ Carousel horizontal posts content slider displays your blog's recent posts eithe
 *   Short code available for pages.
 *   Hyperlink option to each post.
 *   Separate css file to change the style.
+*   Responsive Design.
 
-
-
+Please, check premium version for more features such as multiple sliders for different categories etc. 
 
 == Installation ==	
 
@@ -46,6 +46,10 @@ In order to display, you have three options
 
 3.Using widget.
 
+==changelog==
+Bug fixes
+Compatible with devices such as mobile, tablets etc.(Responsive)
+Support Custom Post types
 
 == Screenshots ==
 
