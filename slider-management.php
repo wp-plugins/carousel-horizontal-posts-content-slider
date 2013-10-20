@@ -54,5 +54,5 @@ echo '</div>';?>
 	<li>Short code for posts:-
 		[carousel-horizontal-posts-content-slider]</li>
 		</ol>
-Check official website for more details
-<a href="http://www.backraw.com" target="_blank">click here</a>
+Please, Check Premium version of this plugin for more features such as multiple sliders for different categories etc.
+<a href="http://www.backraw.com/" target="_blank">click here</a>
