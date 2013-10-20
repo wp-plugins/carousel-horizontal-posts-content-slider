@@ -2,7 +2,7 @@
 Plugin Name: Carousel Horizontal Posts Content Slider
 Plugin URI: http://www.backraw.com/plugins/carousel-horizontal-posts-content-slider.zip
 Description: This is  horizontal posts content slider designed using carousel jquery library.
-Version: 1.0
+Version: 2.0
 Author: subhansanjaya
 Author URI: http://www.backraw.com
 License:  GPL2*/
@@ -30,7 +30,7 @@ function Carousel_shortcode()
 	$slider_gallery.= '<div class="image_carousel">';
 	$slider_gallery.='<div id="foo1">';
 
-	$args = array( 'numberposts' => $qp_showposts,  'category' => $qp_category, 'order'=> $qp_order, 'orderby' => $qp_orderby );
+	$args = array( 'numberposts' => $qp_showposts,  'category' => $qp_category, 'order'=> $qp_order, 'orderby' => $qp_orderby, 'post_type' => 'any'  );
 	$myposts = get_posts( $args );
 	foreach( $myposts as $post ){
 
@@ -57,7 +57,9 @@ function Carousel_shortcode()
 		}
 		
 		
-		$slider_gallery.= '<br/><h2>'.$post_title.'</h2><br/>';
+
+		//Post title, Post Description, Post read more
+		$slider_gallery.= '<br/><h2><a  style=" text-decoration:none;" href="'.$post_link.'">'.$post_title.'</a></h2><br/>';
 		$slider_gallery.= '<p><span class="foo_con">'.tchpcs_clean($post_content, $displaydesc).'</span></p>...';
 
 		$slider_gallery.= '<br/><span class="more"><a href="'.$post_link.'">read more</a></span>';
@@ -88,7 +90,7 @@ function Carousel_add_javascript_files()
 
 		wp_enqueue_script('jquery');
 
-		wp_register_script( 'tiny_js', plugins_url('/inc/jquery.carouFredSel-6.1.0.js',__FILE__ ));
+		wp_register_script( 'tiny_js', plugins_url('/inc/jquery.carouFredSel-6.2.1.js',__FILE__ ));
 		wp_enqueue_script('tiny_js');
 
 		wp_register_script( 'custom_js', plugins_url('/inc/custom.js',__FILE__ ));
