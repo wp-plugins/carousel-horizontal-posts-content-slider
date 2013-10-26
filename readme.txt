@@ -19,14 +19,12 @@ Carousel horizontal posts content slider displays your blog's or web site's rece
 
 = Features of this plugin =
 
-*   Easy to customize.
-*   Support all browser.
+*   Support all browsers.
 *   Short code available for pages.
 *   Hyperlink option to each post.
 *   Separate css file to change the style.
-*   Responsive Design.
 
-Please, check premium version for more features such as multiple sliders for different categories etc. 
+(Please, check premium version for more features such as multiple sliders for different categories, Responsive Design etc.)
 
 == Installation ==	
 
