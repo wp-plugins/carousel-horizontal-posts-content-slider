@@ -26,7 +26,7 @@ Carousel horizontal posts content slider displays your blog's or web site's rece
 *   Separate css file to change the style.
 *   Responsive Design.
 
-(Please, click [__here__] (http://www.backraw.com)to check the premium version for more features such as multiple sliders for different categories, Responsive Design etc.)
+(Please, click [__here__](http://www.backraw.com) to check the premium version for more features such as multiple sliders for different categories, Responsive Design etc.)
 
 
 == Installation ==	
