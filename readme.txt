@@ -15,11 +15,11 @@ This is JQuery CarouFredSel library based Wordpress horizontal posts content sli
 
 == Description ==
 
-Carousel horizontal posts content slider displays your blog's or web site's recent posts either with excerpt or thumbnail image of first image of the post using slider. You can customize the slider in many ways category, posts order, Display content length, no of posts to display & more).
+Carousel horizontal posts content slider displays your blog's or web site's recent posts either with excerpt or thumbnail image of first image of the post using slider. You can customise the slider in many ways category, posts order, Display content length, no of posts to display & more).
 
 = Features of this plugin =
 
-*   Easy to customize.
+*   Easy to customise.
 *   Support all browser.
 *   Short code available for pages.
 *   Hyperlink option to each post.
