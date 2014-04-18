@@ -55,4 +55,4 @@ echo '</div>';?>
 		[carousel-horizontal-posts-content-slider]</li>
 		</ol>
 <h3>Please, Check Premium version of this plugin for more features such as multiple sliders for different categories, Responsive Slider, More customization options etc.
-<a href="http://www.backraw.com/" target="_blank">click here</a></h3>
+<a href="http://weaveapps.com/shop/wordpress-plugins/carousel-horizontal-posts-slider-wordpress-plugin/" target="_blank">click here</a></h3>
