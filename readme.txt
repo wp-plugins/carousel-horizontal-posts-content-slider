@@ -39,6 +39,7 @@ Carousel horizontal posts content slider displays your blog's or web site's rece
 * Sample configurations provided as needed
 * Hyperlink options to each posts.
 * Seperate CSS file to change styles.
+* Customer support.
 
 == Installation ==	
 
