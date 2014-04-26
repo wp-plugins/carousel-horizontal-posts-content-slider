@@ -29,17 +29,23 @@ Carousel horizontal posts content slider displays your blog's or web site's rece
 
 = Features of the premium plugin =
 
-* Responsive Design
-* Multiple Sliders
-* Compatible with WooCommerce
-* Support for custom post type categories
-* jQuery Transition effects (e.g. linear, swing, quadratic, elastic etc.)
+* Responsive Design.(Automatically adjust to any screen size)
+* Multiple Sliders.
+* Compatible with WooCommerce.
+* Support for any custom post type categories or taxonomies.(e.g. product, portfolio
+,stuff,listing etc.)
+* jQuery easing effects (e.g. linear, swing, quadratic, elastic etc.)
+* Transition effects (e.g. none, scroll, fade, cover etc.)
+* Touch swipe for mobile devices. 
 * Support all major browsers (Chrome, IE, FireFox, Opera, Safari)
-* Shortcode and Template tags avaible for pages.
-* Sample configurations provided as needed
+* Short-code and Template tags(PHP) available for pages.
 * Hyperlink options to each posts.
-* Seperate CSS file to change styles.
-* Customer support.
+* Separate CSS file to change styles.
+* Light weight.
+* Compatible with any theme or plugin.
+* Display different types of post images. (Featured image, First image from a post, Last Image from a post etc.)
+* Fully customisable.
+* Instant customer support.
 
 == Installation ==	
 
