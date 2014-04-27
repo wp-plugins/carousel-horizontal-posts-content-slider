@@ -44,6 +44,7 @@ Carousel horizontal posts content slider displays your blog's or web site's rece
 * Light weight.
 * Compatible with any theme or plugin.
 * Display different types of post images. (Featured image, First image from a post, Last Image from a post etc.)
+* Left, right and paging controls. 
 * Fully customisable.
 * Instant customer support.
 
