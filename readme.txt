@@ -15,7 +15,7 @@ This is CarouFredSel library based Wordpress horizontal posts content slider.
 
 == Description ==
 
-Carousel horizontal posts content slider allows you to showcase your posts in nice sliding manner.  Slider can be customised in many ways.(category, posts order, Display content length, no of posts, featured image & more).
+Carousel horizontal posts content slider allows you to showcase your posts in a nice sliding manner.  Slider can be customised in many ways.(category, posts order, Display content length, no of posts, featured image & more).
 
 = Features of this plugin =
 *   Support all browsers.
