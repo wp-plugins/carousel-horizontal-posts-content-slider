@@ -1,33 +1,49 @@
 ===Carousel Horizontal Posts Content Slider ===
 Contributors: subhansanjaya
 Author: subhansanjaya
-Author URI: http://www.backraw.com
-Plugin URI: http://www.backraw.com/plugins/carousel-horizontal-posts-content-slider.zip
+Author URI: http://www.weaveapps.com
+Plugin URI: http://wordpress.org/plugins/carousel-horizontal-posts-content-slider/
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BXBCGCKDD74UE
 Tags: Horizontal Wordpress Slider, Carousel Slider, Image Horizontal Slider, Wordpress Horizontal Posts slider, Horizontal content slider, Wordpress slider, Horizontal posts content slider, horizontal
 Requires at least: 3.0
-Tested up to: 3.6
-Stable tag: 3.0
+Tested up to: 3.9.1
+Stable tag: 3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
-This is JQuery CarouFredSel library based Wordpress horizontal posts content slider.
+This is CarouFredSel library based Wordpress horizontal posts content slider.
 
 == Description ==
 
-Carousel horizontal posts content slider displays your blog's or web site's recent posts either with excerpt or thumbnail image of first image of the post using slider. You can customise the slider in many ways category, posts order, Display content length, no of posts to display & more).
+Carousel horizontal posts content slider allows you to showcase your posts in nice sliding manner.  Slider can be customised in many ways.(category, posts order, Display content length, no of posts, featured image & more).
 
 = Features of this plugin =
-
-*   Easy to customise.
-*   Support all browser.
+*   Support all browsers.
 *   Short code available for pages.
-*   Hyperlink option to each post.
+*   Light weight.
+*   Navigation arrows.
 *   Separate css file to change the style.
-*   Responsive Design.
 
-(Please, click [__here__](http://www.backraw.com) to check the premium version for more features such as multiple sliders for different categories, Responsive Design etc.)
+= Carousel Horizontal Posts Content Slider - Premium =
+(Please, click [__here__](http://weaveapps.com/shop/wordpress-plugins/carousel-horizontal-posts-slider-wordpress-plugin/) to check the premium version.)
 
+= Features of the premium plugin =
+
+* Fully responsive & mobile ready.
+* Multiple Sliders.
+* Support for any custom post type.
+* jQuery easing effects (e.g. linear, swing, quadratic, elastic etc.)
+* Transition effects (e.g. none, scroll, fade, cover etc.)
+* Touch swipe for mobile devices. 
+* Display different types of post images. (Featured image, First image from a post, Last Image from a post etc.)
+* Compatible with WooCommerce.
+* Support all major browsers (Chrome, IE, FireFox, Opera, Safari)
+* Short-code and Template tags(PHP) available for pages.
+* Hyperlink options to each posts.
+* Separate CSS file to change styles.
+* Compatible with any theme or plugin.
+* Left, right and paging controls. 
+* Fully customisable.
 
 == Installation ==	
 
@@ -38,23 +54,25 @@ Download the zip file and extract the contents. Upload the 'Carousel hosrizontal
 
 2.Activate the plugin through the 'Plugins' menu in WordPress. 	
 
+3. Log into Admin panel and go to Settings > Carousel Horizontal Posts Content Slider to change values.
+
 **Configuration**
+To display the slider, you can use any of the following methods.
 
-In order to display, you have three options
+**In a post/page:**
+Simply insert the shortcode below into the post/page to display the slider:
 
-1. Simply place < ? p h p if(function_exists('TCHPCSCarousel')){ echo TCHPCSCarousel(); } ? > in your theme.
+`[carousel-horizontal-posts-content-slider]`
 
-2.Add the shortcode '[carousel-horizontal-posts-content-slider]'.
+**Function in template files (via php):**
+To insert the slider into your theme, add the following code to the appropriate theme file:
 
-3.Using widget.
+`<?php if ( function_exists( "TCHPCSCarousel" ) ) { TCHPCSCarousel(); } ?>
 
 ==changelog==
 Bug fixes
-Compatible with devices such as mobile, tablets etc.(Responsive)
-Support Custom Post types
 
 == Screenshots ==
 
 1. http://www.backraw.com/plugins/images/screenshot-1.jpg
 2. http://www.backraw.com/plugins/images/screenshot-2.jpg
-3. http://www.backraw.com/plugins/images/screenshot-3.jpg
