@@ -54,7 +54,7 @@ Download the zip file and extract the contents. Upload the 'Carousel hosrizontal
 
 2.Activate the plugin through the 'Plugins' menu in WordPress. 	
 
-3. Log into Admin panel and go to Settings > Carousel Horizontal Posts Content Slider to change values.
+3.Log into Admin panel and go to Settings > Carousel Horizontal Posts Content Slider to change values.
 
 **Configuration**
 To display the slider, you can use any of the following methods.
@@ -67,7 +67,7 @@ Simply insert the shortcode below into the post/page to display the slider:
 **Function in template files (via php):**
 To insert the slider into your theme, add the following code to the appropriate theme file:
 
-`<?php if ( function_exists( "TCHPCSCarousel" ) ) { TCHPCSCarousel(); } ?>
+`<?php if ( function_exists( "TCHPCSCarousel" ) ) { TCHPCSCarousel(); } ?>`
 
 ==changelog==
 Bug fixes
