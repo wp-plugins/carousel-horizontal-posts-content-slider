@@ -73,3 +73,6 @@ To insert the slider into your theme, add the following code to the appropriate 
 Bug fixes
 
 == Screenshots ==
+
+1. http://www.backraw.com/plugins/images/screenshot-1.jpg
+2. http://www.backraw.com/plugins/images/screenshot-2.jpg
