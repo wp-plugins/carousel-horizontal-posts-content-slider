@@ -90,7 +90,7 @@ function Carousel_add_javascript_files()
 
 		wp_enqueue_script('jquery');
 
-		wp_register_script( 'tiny_js', plugins_url('/inc/jquery.carouFredSel-6.2.1-packed.js',__FILE__ ));
+		wp_register_script( 'tiny_js', plugins_url('/inc/jquery.carouFredSel-6.2.1.js',__FILE__ ));
 		wp_enqueue_script('tiny_js');
 
 		wp_register_script( 'custom_js', plugins_url('/inc/custom.js',__FILE__ ));
