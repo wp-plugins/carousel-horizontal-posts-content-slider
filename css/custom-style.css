@@ -1,51 +1,60 @@
 @CHARSET "ISO-8859-1";
+.chpcs_clearfix {
+	float: none;
+	clear: both;
+}
 
-h2{
-	clear:none;
-	line-height:15px;
-	font-family:Georgia,serif;
-	font-size:12px;
+/*read more text */
+.chpcs_more{
+	color:#ca7700;
+	font-family:Verdana,Geneva,sans-serif;
+	font-size:11px;"
+}
+
+.chpcs_foo_con{
+	font-family:Verdana,Geneva,sans-serif;
+	font-size:11px;
 	font-weight:normal;
 	font-style:normal;
-	color:#000;
-	margin:0 0 5px 0;"
+	color:#222222;
 	width:140px;
 	height:auto;
 }
 
-.more{
-	
-	color:#ca7700;
-	font-family:Verdana,Geneva,sans-serif;
-	font-size:11px;"
-	
+.chpcs_image_carousel h2{
+	font-size: 14px;
 }
 
-.foo_con{
-
-font-family:Verdana,Geneva,sans-serif;
-font-size:11px;
-font-weight:normal;
-font-style:normal;
-color:#222222;
-width:140px;
-height:auto;
-}
-
-.image_carousel {
+.chpcs_image_carousel {
 	padding: 15px 0 15px 40px;
 	position: relative;
 }
-.image_carousel img {
+
+/*  image of posts on slider */
+.chpcs_image_carousel img {
 	border: 1px solid #ccc;
 	background-color: white;
 	padding: 9px;
 	margin:5px 0 5px 0;"
 	display: block;
 	float: left;
-	
+	width: 115px;
+	height: 115px;
 }
-a.prev, a.next {
+
+#chpcs_foo_content{
+	padding: 9px;
+	margin: 7px;
+	display: block;
+	float: left;
+	height:auto;
+	width:150px;
+	min-height:150px;
+	max-height:280px;
+}
+
+/* Controls of Slider */
+a.chpcs_prev, a.chpcs_next {
 	background: url(../images/miscellaneous_sprite.png) no-repeat transparent;
 	width: 45px;
 	height: 50px;
@@ -53,34 +62,13 @@ a.prev, a.next {
 	position: absolute;
 	top: 85px;
 }
-
-#foo_content{
-	
-	padding: 9px;
-	margin: 7px;
-	display: block;
-	float: left;
-	height:auto;
-
-	width:150px;
-	min-height:150px;
-	max-height:280px;
-	
-	
-}
-
-
-a.prev {			left: -22px;
+a.chpcs_prev {			left: -22px;
 					background-position: 0 0; }
-a.prev:hover {		background-position: 0 -50px; }
-a.next {			right: -22px;
+a.chpcs_prev:hover {		background-position: 0 -50px; }
+a.chpcs_next {			right: -22px;
 					background-position: -50px 0; }
-a.next:hover {		background-position: -50px -50px; }
+a.chpcs_next:hover {		background-position: -50px -50px; }
 
-a.prev span, a.next span {
+a.chpcs_prev span, a.chpcs_next span {
 	display: none;
-}
-.clearfix {
-	float: none;
-	clear: both;
 }

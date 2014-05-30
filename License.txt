@@ -1,7 +1,7 @@
 /**
  *     Wordpress plugin Carousel Horizontal Posts Content Slider
- *     Copyright (C) 2012 www.backraw.com
- *     http://www.backraw.com
+ *     Copyright (C) 2012-2014 www.weaveapps.com
+ *     http://www.weaveapps.com
  * 
  *     This program is free software: you can redistribute it and/or modify
  *     it under the terms of the GNU General Public License as published by
