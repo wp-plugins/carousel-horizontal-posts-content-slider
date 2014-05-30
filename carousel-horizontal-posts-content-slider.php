@@ -61,7 +61,7 @@ function Carousel_shortcode() {
 		}
 		
 		//Post title, Post Description, Post read more
-		$slider_gallery.= '<br/><h2><a  style=" text-decoration:none;" href="'.$post_link.'">'.$post_title.'</a></h2><br/>';
+		$slider_gallery.= '<br/><span class="chpcs_title"><a  style=" text-decoration:none;" href="'.$post_link.'">'.$post_title.'</a></span><br/>';
 		$slider_gallery.= '<p><span class="chpcs_foo_con">'.tchpcs_clean($post_content, $displaydesc).'...</span></p>';
 
 		$slider_gallery.= '<br/><span class="chpcs_more"><a href="'.$post_link.'">read more</a></span>';
@@ -125,10 +125,15 @@ function attachment_image_filter($postid=0, $size='thumbnail', $attributes='') {
 }
 
 //limit words
-function tchpcs_clean($excerpt, $substr) {
-	$string = substr($excerpt, 0, $substr);
-	return $string;
-}
+	/* limit words (remove images, html tags and retrieve text only) */
+	function tchpcs_clean($excerpt, $substr) {
+	
+		$string = $excerpt;
+		$string = strip_shortcodes(wp_trim_words( $string, $substr ));
+	
+		return $string;
+	}
+
 
 
 function tchpcs_admin_options()

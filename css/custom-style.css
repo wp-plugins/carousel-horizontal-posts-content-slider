@@ -21,8 +21,12 @@
 	height:auto;
 }
 
-.chpcs_image_carousel h2{
+.chpcs_title{
 	font-size: 14px;
+   padding: 0px;
+    margin: 0px;
+  line-height: 0;
+  clear:both;
 }
 
 .chpcs_image_carousel {
