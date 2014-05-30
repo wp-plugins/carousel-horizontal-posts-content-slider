@@ -7,7 +7,7 @@ Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id
 Tags: Horizontal Wordpress Slider, Carousel Slider, Image Horizontal Slider, Wordpress Horizontal Posts slider, Horizontal content slider, Wordpress slider, Horizontal posts content slider, horizontal
 Requires at least: 3.0
 Tested up to: 3.6
-Stable tag: 3.1
+Stable tag: 3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
