@@ -4,7 +4,7 @@ Author: subhansanjaya
 Author URI: http://www.weaveapps.com
 Plugin URI: http://wordpress.org/plugins/carousel-horizontal-posts-content-slider/
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BXBCGCKDD74UE
-Tags: posts slider, posts content slider, Horizontal Wordpress Slider, Carousel Slider, Image Horizontal Slider, Wordpress Horizontal Posts slider, Horizontal content slider, Wordpress slider, Horizontal posts content slider,
+Tags: posts slider,posts content slider,Horizontal Wordpress Slider, Carousel Slider, Image Horizontal Slider, Wordpress Horizontal Posts slider, Horizontal content slider, Wordpress slider, Horizontal posts content slider.
 Requires at least: 3.0
 Tested up to: 3.9.1
 Stable tag: 3.2
@@ -30,6 +30,7 @@ Carousel horizontal posts content slider allows you to showcase your posts in a 
 = Features of the premium plugin =
 
 * Fully responsive & mobile ready.
+* Supports both vertical and horizontal directions.
 * Multiple Sliders.
 * Support for any custom post type.
 * jQuery easing effects (e.g. linear, swing, quadratic, elastic etc.)
@@ -43,7 +44,7 @@ Carousel horizontal posts content slider allows you to showcase your posts in a 
 * Separate CSS file to change styles.
 * Compatible with any theme or plugin.
 * Left, right and paging controls. 
-* Fully customisable.
+* Easy customisable.
 
 == Installation ==	
 
