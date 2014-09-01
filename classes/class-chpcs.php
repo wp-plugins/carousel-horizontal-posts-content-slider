@@ -1,6 +1,6 @@
 <?php
 require('class-chpcs-widget.php');
-class CHPCS {
+class CHPC_Slider {
 
 	//default settings
 	private $defaults = array(

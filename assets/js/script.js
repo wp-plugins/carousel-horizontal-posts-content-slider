@@ -1,10 +1,12 @@
 jQuery(document).ready(function($) {
+auto_s = (chpcsArgs.auto_scroll=="true") ? true : false;
+cir = (chpcsArgs.circular=="true") ? true : false;
 $("#wa_chpc_slider").carouFredSel({
-	circular: chpcsArgs.circular,
+	circular: cir,
 	width: '100%',
 	height: 'auto',
 	infinite: false,
-	auto 	: chpcsArgs.auto_scroll,
+	auto 	: auto_s,
 	prev	: {	
 		button	: "#wa_chpc_slider_prev",
 		key		: "left"
@@ -14,9 +16,13 @@ $("#wa_chpc_slider").carouFredSel({
 		key		: "right"
 	},
 	pagination	: "#wa_chpc_slider_pag",
-	scroll : parseInt(chpcsArgs.no_of_items_to_scroll),
-	fx : chpcsArgs.fx,
-	easing : chpcsArgs.easing_effect,
+	scroll : {
+items			: parseInt(chpcsArgs.no_of_items_to_scroll),
+fx: chpcsArgs.fx,
+easing : chpcsArgs.easing_effect,
+duration: 500,					
+pauseOnHover	: true
+},
 	swipe: {
 onMouse: false,
 onTouch: true

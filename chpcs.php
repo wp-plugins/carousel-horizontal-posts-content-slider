@@ -14,5 +14,5 @@ if(! defined( 'ABSPATH' )) exit; // Exit if accessed directly
 require('classes/class-chpcs.php');
 
 global $CHPCS;
-$CHPCS = new CHPCS();
+$CHPCS = new CHPC_Slider();
 $CHPCS_Widget = new CHPCS_widget();
