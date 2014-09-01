@@ -6,7 +6,7 @@ Plugin URI: http://wordpress.org/plugins/carousel-horizontal-posts-content-slide
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BXBCGCKDD74UE
 Tags: posts slider,posts content slider,Horizontal Wordpress Slider, Carousel Slider, Image Horizontal Slider, Wordpress Horizontal Posts slider, Horizontal content slider, Wordpress slider, Horizontal posts content slider.
 Requires at least: 3.0
-Tested up to: 3.2
+Tested up to: 3.9.2
 Stable tag: 3.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -26,7 +26,7 @@ Carousel horizontal posts content slider allows you to showcase your posts in a 
 *   Transition effects.
 *   Widget ready.
 *   Supports Touch interaction. (Touch swipe) 
-*   Separate css file to change the style.
+*   Separate css file to change the styles.
 
 = Carousel Horizontal Posts Content Slider - Premium =
 (Please, click [__here__](http://weaveapps.com/shop/wordpress-plugins/carousel-horizontal-posts-slider-wordpress-plugin/) to check the premium version.)
