@@ -24,7 +24,6 @@ Carousel horizontal posts content slider allows you to showcase your posts in a 
 *   Transition effects.
 *   Widget ready.
 *   Support all browsers: Firefox, Chrome, IE, Safari etc.
-*   Supports Touch interaction. (Touch swipe) 
 *   Separate css file to change the styles.
 
 = Carousel Horizontal Posts Content Slider - Premium =
