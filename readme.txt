@@ -77,7 +77,7 @@ To insert the slider into your theme, add the following code to the appropriate 
 Appearance > Widgets > CHPC Slider.
 
 ==changelog==
-Version 3.2.2
+Version 3.2.3
 
 New - More options to configure the slider.
 Fixed - Bug fixes for improved slider quality and performance.
