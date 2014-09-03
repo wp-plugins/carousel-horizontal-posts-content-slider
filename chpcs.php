@@ -15,4 +15,3 @@ require('classes/class-chpcs.php');
 
 global $CHPCS;
 $CHPCS = new CHPC_Slider();
-$CHPCS_Widget = new CHPCS_widget();

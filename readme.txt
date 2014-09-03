@@ -4,7 +4,7 @@ Author: subhansanjaya
 Author URI: http://www.weaveapps.com
 Plugin URI: http://wordpress.org/plugins/carousel-horizontal-posts-content-slider/
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BXBCGCKDD74UE
-Tags: posts slider, post slider, custom post type slider, posts content slider,Horizontal Wordpress Slider, Carousel Slider, Image Horizontal Slider, Wordpress Horizontal Posts slider, Horizontal content slider, Wordpress slider, Horizontal posts content slider, responsive post slider, responsive posts content slider, vertical slider, post carousel, posts carousel.
+Tags: posts slider, post slider, custom post type slider, posts content slider,Horizontal Wordpress Slider, Carousel Slider, Image Horizontal Slider, Wordpress Horizontal Posts slider, Horizontal content slider, Wordpress slider, Horizontal posts content slider, responsive post slider, responsive posts content slider, vertical slider, post carousel, posts carousel, caroufredsel.
 Requires at least: 3.0
 Tested up to: 3.9.2
 Stable tag: 3.2.3
@@ -77,7 +77,10 @@ To insert the slider into your theme, add the following code to the appropriate 
 Appearance > Widgets > CHPC Slider.
 
 ==changelog==
-Bug fixes
+Version 3.2.2
+
+New - More options to configure the slider.
+Fixed - Bug fixes for improved slider quality and performance.
 
 == Screenshots ==
 
