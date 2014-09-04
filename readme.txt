@@ -6,7 +6,7 @@ Plugin URI: http://wordpress.org/plugins/carousel-horizontal-posts-content-slide
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BXBCGCKDD74UE
 Tags: posts slider, post slider, custom post type slider, posts content slider,Horizontal Wordpress Slider, Carousel Slider, Image Horizontal Slider, Wordpress Horizontal Posts slider, Horizontal content slider, Wordpress slider, Horizontal posts content slider, responsive post slider, responsive posts content slider, vertical slider, post carousel, posts carousel, caroufredsel
 Requires at least: 3.0
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: 3.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
