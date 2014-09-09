@@ -17,7 +17,6 @@ This is CarouFredSel library based Wordpress horizontal posts content slider.
 Carousel horizontal posts content slider is jQuery powered and carouFredsel library based slider. It allows you to showcase your posts in a nice sliding manner.  It has plenty of user-friendly options to configure the slider easily.
 
 = Features of this plugin =
-*   Responsive.
 *   Transition effects.
 *   Navigation arrows, pagination.
 *   Short code available for pages.
