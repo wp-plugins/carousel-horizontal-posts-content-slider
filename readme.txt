@@ -4,7 +4,7 @@ Author: subhansanjaya
 Author URI: http://www.weaveapps.com
 Plugin URI: http://wordpress.org/plugins/carousel-horizontal-posts-content-slider/
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BXBCGCKDD74UE
-Tags: posts slider, post slider, custom post type slider, posts content slider,Horizontal Wordpress Slider, Carousel Slider, Image Horizontal Slider, Wordpress Horizontal Posts slider, Horizontal content slider, Wordpress slider, Horizontal posts content slider, responsive post slider, responsive posts content slider, vertical slider, post carousel, posts carousel, caroufredsel,page carousel,pages slider,page,slider,carousel,post content slider,post type slider,custom post type,portfolio slider,wordpress post slider,wp slider,carousel,responsive post slider,responsive posts content slider,responsive page slider,post-page slider,post page slider,post, posts slider,post slider,pages content slider
+Tags: posts slider, post slider, custom post type slider, posts content slider,Horizontal Wordpress Slider, Carousel Slider, Image Horizontal Slider, Wordpress Horizontal Posts slider, Horizontal content slider, Wordpress slider, Horizontal posts content slider, responsive post slider, responsive posts content slider, vertical slider, post carousel, posts carousel, caroufredsel,page carousel,pages slider,page,slider,carousel,post content slider,post type slider,custom post type,portfolio slider,wordpress post slider,wp slider,carousel,responsive post slider,responsive posts content slider,responsive page slider,post-page slider,post page slider,post, posts slider,post slider,pages content slider, featured image slider, featured image carousel, thumbnail image, thumbnail, banner rotator, testimonial scroller,image ticker,recent post slider,responsive carousel,logo scroller,news slider,best posts content slider, best post slider, advance post slider,logo scroller,featured posts slider, company logo slider, wordpress post slider, wp post slider
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 3.2.3
@@ -14,20 +14,20 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This is CarouFredSel library based Wordpress horizontal posts content slider.
 
 == Description ==
-
-Carousel horizontal posts content slider allows you to showcase your posts in a nice sliding manner.  Slider can be customised in many ways.(category, posts order, Display content length, no of posts, featured image & much more).
+Carousel horizontal posts content slider is jQuery powered and carouFredsel library based slider. It allows you to showcase your posts in a nice sliding manner.  It has plenty of user-friendly options to configure the slider easily.
 
 = Features of this plugin =
-*   Short code available for pages.
-*   Light weight.
-*   Navigation arrows, pagination.
+*   Responsive.
 *   Transition effects.
+*   Navigation arrows, pagination.
+*   Short code available for pages.
 *   Widget ready.
 *   Translation ready.
+*   SEO friendly.
 *   Support all browsers: Firefox, Chrome, IE, Safari etc.
 *   Separate css file to change the styles.
 
-Note: This plugin is provided as-is. Only critical bug fixes, future compatibility with WordPress versions and routine maintenance will be addressed in plugin updates. If you want additional support or access to more features, consider purchasing the premium version. Thank you.
+Note: This plugin is provided as-is. Only critical bug fixes, future compatibility with WordPress versions and routine maintenance will be addressed in plugin updates. If you want additional support or access to more features, please, consider purchasing the premium version. Thank you.
 
 = Carousel Horizontal Posts Content Slider - Premium =
 (Please, click [__here__](http://weaveapps.com/shop/wordpress-plugins/carousel-horizontal-posts-slider-wordpress-plugin/) to check the premium version.)
@@ -37,15 +37,17 @@ Note: This plugin is provided as-is. Only critical bug fixes, future compatibili
 = Features of the premium plugin =
 * Fully responsive & mobile ready.
 * Supports both vertical and horizontal directions.
-* Multiple / unlimited Sliders.
-* Support for any custom post type. (e.g. post, page, product, portfolio etc.)
-* Display posts, pages or any custom post type. 
+* Multiple sliders can be created, so that you can embed different sliders on different pages of your WordPress site.
+* Slide any post type. (e.g. post, page, product, portfolio etc.)
 * jQuery easing effects (e.g. linear, swing, quadratic, elastic etc.)
 * Smooth transition effects (e.g. none, scroll, fade, cover etc.)
-* Touch swipe for mobile devices. 
+* Touch navigation for mobile devices. 
 * Display different types of post images. (Featured image, First image from a post, Last Image from a post etc.)
 * Unique settings for each slider.
+* Light weight. (Smaller file size which load faster.)
+* Search engine optimised.
 * Compatible with WooCommerce.
+* You can reorder the slides, or choose to display the slides randomly.
 * Support all major browsers (Chrome, IE, FireFox, Opera, Safari)
 * Shortcode and Template tags(PHP) for displaying sliders anywhere in your site.
 * Hyperlink options to each posts.
