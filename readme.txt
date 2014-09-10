@@ -26,12 +26,8 @@ Carousel horizontal posts content slider is jQuery powered and carouFredsel libr
 *   Support all browsers: Firefox, Chrome, IE, Safari etc.
 *   Separate css file to change the styles.
 
-Note: This plugin is provided as-is. Only critical bug fixes, future compatibility with WordPress versions and routine maintenance will be addressed in plugin updates. If you want additional support or access to more features, please, consider purchasing the premium version. Thank you.
-
 = Carousel Horizontal Posts Content Slider - Premium =
 (Please, click [__here__](http://weaveapps.com/shop/wordpress-plugins/carousel-horizontal-posts-slider-wordpress-plugin/) to check the premium version.)
-
-[__Live demo - premium version__](http://weaveapps.com/shop/wordpress-plugins/carousel-horizontal-posts-slider-wordpress-plugin/)
 
 = Features of the premium plugin =
 * Fully responsive & mobile ready.
