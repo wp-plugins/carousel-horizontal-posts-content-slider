@@ -34,7 +34,7 @@ Carousel horizontal posts content slider is jQuery powered and carouFredsel libr
 * Supports both vertical and horizontal directions.
 * Multiple sliders can be created, so that you can embed different sliders on different pages of your WordPress site.
 * Slide any post type. (e.g. post, page, product, portfolio etc.)
-* Option to enable Lazy load for images. (Using Lazy Load on long web pages will make the page load faster and also help to reduce server load.)
+* Option to enable Lazy load for images. 
 * Lightbox functionality for images.
 * Easy to customise to compatible with your own website’s style.
 * Supports Touch interaction for mobile devices. (Touch swipe)
