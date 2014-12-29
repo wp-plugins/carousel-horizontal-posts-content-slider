@@ -1151,7 +1151,7 @@ class CHPCS {
 		}
 		echo '</h2><div class="wa-chpcs-settings"><div class="wa-chpcs-credits"><h3 class="hndle">'.__('Carousel horizontal posts content slider', 'wa-chpcs-txt').'</h3>
 					<div class="inside">
-					<p class="inner">'.__('Configuration: ', 'wa-chpcs-txt').' <a href="http://wordpress.org/plugins/carousel-horizontal-posts-content-slider/installation/" target="_blank" title="'.__('Plugin URL', 'wa-chpcs-txt').'">'.__('Plugin URI', 'wa-chpcs-txt').'</a></p>
+					<p class="inner">'.__('Configuration: ', 'wa-chpcs-txt').' <a href="http://weaveapps.com/shop/wordpress-plugins/carousel-horizontal-posts-content-slider/#installation" target="_blank" title="'.__('Plugin URL', 'wa-chpcs-txt').'">'.__('Plugin URI', 'wa-chpcs-txt').'</a></p>
 					</p><hr />
 					<h4 class="inner">'.__('Do you like this plugin?', 'wa-chpcs-txt').'</h4>
 					<p class="inner">'.__('Please, ', 'wa-chpcs-txt').'<a href="http://wordpress.org/support/view/plugin-reviews/carousel-horizontal-posts-content-slider" target="_blank" title="'.__('rate it', 'wa-chpcs-txt').'">'.__('rate it', 'wa-chpcs-txt').'</a> '.__('on WordPress.org', 'wa-chpcs-txt').'<br />          
