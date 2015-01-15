@@ -375,6 +375,8 @@ class CHPCS {
 	}
 	$slider_gallery.='</div>';
 
+	wp_reset_postdata();
+
 	return $slider_gallery;
 
 	}
