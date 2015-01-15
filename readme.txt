@@ -100,6 +100,9 @@ To insert the slider into your theme, add the following code to the appropriate 
 Appearance > Widgets > CHPC Slider.
 
 ==changelog==
+**Version 3.2.5**
+Fixed issue where categories couldn't be selected.
+
 **Version 3.2.4**
 New: Added more options to configure the slider.
 
