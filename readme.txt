@@ -31,7 +31,7 @@ Carousel horizontal posts content slider is jQuery powered and carouFredsel libr
 *   User can set the items "Dimension: (width or height)
 *   Support all browsers: Firefox, Chrome, IE, Safari etc.
 
-Translations:
+==Translations==
 pt_BR by mauro.mascarenhas.
 
 = Carousel Posts Content Slider - Pro =
