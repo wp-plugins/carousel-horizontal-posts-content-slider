@@ -14,7 +14,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 A simple horizontal posts content slider plugin.
 
 == Description ==
-Carousel horizontal posts content slider is jQuery powered and carouFredsel library based slider. It allows you to showcase your posts in a nice sliding manner.  It has plenty of user-friendly options to configure the slider easily.
+Carousel horizontal posts content slider is a jQuery powered and carouFredsel library based slider. It allows you to showcase your posts in a nice sliding manner.  It has plenty of user-friendly options to configure the slider easily.
 
 = Features of this plugin =
 *   Responsive and mobile friendly.
