@@ -31,6 +31,9 @@ Carousel horizontal posts content slider is jQuery powered and carouFredsel libr
 *   User can set the items "Dimension: (width or height)
 *   Support all browsers: Firefox, Chrome, IE, Safari etc.
 
+Translations:
+pt_BR by mauro.mascarenhas.
+
 = Carousel Posts Content Slider - Pro =
 (Please, click [__here__](http://weaveapps.com/shop/wordpress-plugins/carousel-horizontal-posts-slider-wordpress-plugin/) to check the pro version.)
 
